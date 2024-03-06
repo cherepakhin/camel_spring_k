@@ -1,4 +1,4 @@
-package ru.perm.v.shop_kotlin_gradle
+package ru.perm.v.camelinaction.ch2_k
 
 import org.junit.jupiter.api.Test
 
